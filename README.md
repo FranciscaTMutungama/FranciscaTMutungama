@@ -14,7 +14,8 @@ I'm a passionate Python developer and Cloud Engineer. I love building scalable a
 - Foundations of software testing and validation
 
 ## 💼 Projects
-Project 1 : Guess Game
+-Project 1 : 
+Number Guess Game - For this game, the computer randomly selects a number, and the player has to guess it within a limited number of attempts. The game provides hints to guide the player towards the correct answer.The player is prompted to enter their guess, and the program provides appropriate feedback until the player either guesses the correct number or runs out of attempts. 
 
 
 ## 📚 Certifications
