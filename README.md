@@ -28,7 +28,7 @@ Project 2 (https://github.com/FranciscaTMutungama/ADV)
 - Python Programming Certification (in progress)
 
 ## 📫 Let's Connect
-- LinkedIn: [www.linkedin.com/in/francisca-mutungamama-845821295]
+- LinkedIn: [www.linkedin.com/in/francisca-mutungama5]
   
 
 Feel free to explore my repositories and projects. I'm open to collaboration and always eager to learn new things. Let's code together! 😊
