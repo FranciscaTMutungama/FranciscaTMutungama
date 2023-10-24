@@ -14,7 +14,8 @@ I'm a passionate Python developer and Cloud Engineer. I love building scalable a
 - Foundations of software testing and validation
 
 ## 💼 Projects
--
+Project 1 : Guess Game
+
 
 ## 📚 Certifications
 - AWS Certified Cloud Practitioner (in progress)
