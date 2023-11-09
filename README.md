@@ -25,7 +25,7 @@ Project 2 (https://github.com/FranciscaTMutungama/ADV)
 
 ## 📚 Certifications
 - AWS Certified Cloud Practitioner (in progress)
-- Python Programming Certification (in progress)
+- Python Programming Certification (CodeFirstGirls)
 
 ## 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/francisca-mutungama5]
