@@ -9,7 +9,6 @@ I'm a passionate Python developer and Cloud Engineer. I love building scalable a
 - **Version Control:** Git, GitHub
 
 ## 🌱 I’m currently learning
-- Advanced Python concepts like decorators, generators, and async programming.
 - Cloud computing fundamentals and services on AWS 
 - Foundations of software testing and validation
 
@@ -26,6 +25,7 @@ Project 2 (https://github.com/FranciscaTMutungama/ADV)
 ## 📚 Certifications
 - AWS Certified Cloud Practitioner (in progress)
 - Python Programming Certification (CodeFirstGirls)
+- Foundations of Software Testing and Validation (Coursera)
 
 ## 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/francisca-mutungama5]
