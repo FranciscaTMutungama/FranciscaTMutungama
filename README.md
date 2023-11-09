@@ -10,7 +10,7 @@ I'm a passionate Python developer and Cloud Engineer. I love building scalable a
 
 ## 🌱 I’m currently learning
 - Cloud computing fundamentals and services on AWS 
-- Foundations of software testing and validation
+
 
 ## 💼 Projects
 Project 1 (https://github.com/FranciscaTMutungama/GUESSGAME)
