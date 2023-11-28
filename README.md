@@ -21,6 +21,10 @@ Project 2 (https://github.com/FranciscaTMutungama/ADV)
 
 -Adventure Game - This text-based adventure game lets you explore mysterious landscapes, encounter intriguing characters, and solve complex puzzles to unravel an epic story.
 
+Project 3 ( https://github.com/FranciscaTMutungama/RecipeSearcher)
+
+-Recipe Searcher - Ingredient-Based Search: Simply enter your desired ingredient, and Recipe Searcher will fetch a curated list of recipes for you.Each result provides comprehensive details, including ingredients, nutritional information, and a link to the full recipe
+
 
 ## 📚 Certifications
 - AWS Certified Cloud Practitioner (in progress)
