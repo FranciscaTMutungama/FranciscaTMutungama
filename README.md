@@ -3,13 +3,11 @@ I'm a passionate Python developer and Cloud Engineer. I love building scalable a
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, 
-- **Frameworks:** Flask, Django (learning)
 - **Cloud Platforms:** Amazon Web Services (Learning)
-- **Tools:** Docker, Kubernetes (learning)
 - **Version Control:** Git, GitHub
 
 ## 🌱 I’m currently learning
-- Cloud computing fundamentals and services on AWS 
+- Cloud computing and services on AWS 
 
 
 ## 💼 Projects
