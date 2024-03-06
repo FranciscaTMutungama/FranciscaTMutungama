@@ -1,5 +1,5 @@
 # Hi there, I'm Fran! 👋
-I'm a passionate Python developer and Cloud Engineer. I love building scalable applications and exploring cloud technologies. Currently learning and growing my skills in Python programming and cloud services.
+I'm a passionate Python developer and Cloud Engineer/Architect. I love building scalable applications and exploring cloud technologies. Currently learning and growing my skills in Python programming and cloud services.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, 
