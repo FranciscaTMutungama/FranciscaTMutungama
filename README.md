@@ -3,7 +3,7 @@ I'm a passionate Python developer and Cloud Engineer/Architect. I love building 
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, 
-- **Cloud Platforms:** Amazon Web Services (Learning)
+- **Cloud Platforms:** Amazon Web Services
 - **Version Control:** Git, GitHub
 
 ## 🌱 I’m currently learning
@@ -28,6 +28,7 @@ Project 3 ( https://github.com/FranciscaTMutungama/RecipeSearcher)
 - AWS Certified Cloud Practitioner (in progress)
 - Python Programming Certification (CodeFirstGirls)
 - Foundations of Software Testing and Validation (Coursera)
+- CompTIA Security(In Progress)
 
 ## 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/francisca-mutungama5]
