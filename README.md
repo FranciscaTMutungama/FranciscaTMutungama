@@ -1,5 +1,5 @@
 # Hi there, I'm Fran! 👋
-I'm a passionate Python developer and Cloud Engineer/Architect. I love building scalable applications and exploring cloud technologies. Currently learning and growing my skills in Python programming and cloud services.
+I am a budding Cloud Engineer who is passionate about utilising technology to solve real-world problems. Skilled in Python, Amazon AWS, and Cloud Computing, with expertise in communication and presentation.Currently an Amazon AWS Cloud Engineering intern,to enhance technical proficiency and seamlessly integrate client success strategies into cloud solutions architecture. Leveraging years of experience in driving customer satisfaction and retention as a Customer Success Engineer at Tese, I am proficient at understanding client needs and translating them into innovative cloud solutions.Seeking an opportunity where I can employ my skillset and actively learn new technologies
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, 
