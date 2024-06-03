@@ -6,9 +6,6 @@ I am a budding Cloud Engineer who is passionate about utilising technology to so
 - **Cloud Platforms:** Amazon Web Services
 - **Version Control:** Git, GitHub
 
-## 🌱 I’m currently learning
-- Cloud computing and services on AWS 
-
 
 ## 💼 Projects
 Project 1 (https://github.com/FranciscaTMutungama/GUESSGAME)
