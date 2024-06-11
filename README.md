@@ -22,10 +22,11 @@ Project 3 ( https://github.com/FranciscaTMutungama/RecipeSearcher)
 
 
 ## 📚 Certifications
-- AWS Certified Cloud Practitioner (in progress)
+- AWS Certified Cloud Practitioner
 - Python Programming Certification (CodeFirstGirls)
 - Foundations of Software Testing and Validation (Coursera)
-- CompTIA Security(In Progress)
+- Cybersecurity Essentials (Cisco)
+  
 
 ## 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/francisca-mutungama5]
